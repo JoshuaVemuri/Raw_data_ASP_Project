@@ -1,2 +1,2 @@
-# Raw_data_ASP_Project
-Azure Data Engineering Project with Netflix project
+# Raw_data_Netflix_Project
+Azure Data Engineering Project with Netflix Data
